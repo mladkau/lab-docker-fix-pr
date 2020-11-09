@@ -1,4 +1,4 @@
-FROM node:12.1.0
+FROM SNYK-DEBIAN9-APT-568929
 
 WORKDIR /usr/src/app
 
